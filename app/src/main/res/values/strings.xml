@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tasks Timer</string>
+    <string name="action_settings">Settings</string>
+    <string name="mnuMain_addTasks">Add Tasks</string>
+    <string name="mnuMain_showDuration">Duration Report</string>
+    <string name="mnuMain_settings">Settings</string>
+    <string name="mnuMain_showAbout">About TasksTimer</string>
+    <string name="mnuMain_generate">Generate</string>
+    <string name="Hint_TaskName_addEdit">Enter Task Name (required)</string>
+    <string name="hint_description_addEdit">Enter Descriptions (optional)</string>
+    <string name="hit_sortOrder_addEdit">Sort order</string>
+    <string name="btn_save_addEdit">Save</string>
+    <string name="title_activity_add_edit">AddEditActivity</string>
+    <string name="dialog_ok">ok</string>
+    <string name="dialog_cancel">cancel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_deleteMessage">Do want delete Task ID: %1$d ?</string>
+    <string name="Dialog_addEdite_continue">Continue</string>
+    <string name="dailog_back">Back</string>
+</resources>
